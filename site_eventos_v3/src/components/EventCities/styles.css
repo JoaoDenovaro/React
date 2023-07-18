@@ -1,0 +1,23 @@
+.event-cities {
+    text-align: center;
+    font-size: 1.2rem;
+    max-width: 16rem;
+    width: 20%;
+}
+
+
+.event-cities img {
+    width: 15rem;
+    height: 20rem;
+    object-fit:cover;
+    border-radius: 10px;
+}
+
+.event-cities p {
+    z-index: 1;
+    position: relative;
+    bottom: 3rem;
+    color: white;
+    font-weight: bold;
+    background-image: linear-gradient(rgba(255, 0, 0, 0), rgb(0, 0, 0), );
+}
